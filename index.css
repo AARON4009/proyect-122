@@ -1,0 +1,24 @@
+body {
+  margin:2;
+  font-family:Impact;
+  
+  background-color: rgb(121, 121, 128);
+}
+
+code {
+  font-family: 'Courier New',
+    monospace;
+}
+
+
+p{
+  margin: 15px;
+}
+
+.App-link{
+  color: #729520;
+}
+
+h5{
+  margin: 25px;
+}
